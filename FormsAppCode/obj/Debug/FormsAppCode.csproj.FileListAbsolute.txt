@@ -1,0 +1,9 @@
+C:\Users\Krisitne Lacampuenga\source\repos\WindowsFormDemo\FormsAppCode\bin\Debug\FormsAppCode.exe.config
+C:\Users\Krisitne Lacampuenga\source\repos\WindowsFormDemo\FormsAppCode\bin\Debug\FormsAppCode.exe
+C:\Users\Krisitne Lacampuenga\source\repos\WindowsFormDemo\FormsAppCode\bin\Debug\FormsAppCode.pdb
+C:\Users\Krisitne Lacampuenga\source\repos\WindowsFormDemo\FormsAppCode\obj\Debug\FormsAppCode.csprojAssemblyReference.cache
+C:\Users\Krisitne Lacampuenga\source\repos\WindowsFormDemo\FormsAppCode\obj\Debug\FormsAppCode.DICTForms.resources
+C:\Users\Krisitne Lacampuenga\source\repos\WindowsFormDemo\FormsAppCode\obj\Debug\FormsAppCode.csproj.GenerateResource.cache
+C:\Users\Krisitne Lacampuenga\source\repos\WindowsFormDemo\FormsAppCode\obj\Debug\FormsAppCode.csproj.CoreCompileInputs.cache
+C:\Users\Krisitne Lacampuenga\source\repos\WindowsFormDemo\FormsAppCode\obj\Debug\FormsAppCode.exe
+C:\Users\Krisitne Lacampuenga\source\repos\WindowsFormDemo\FormsAppCode\obj\Debug\FormsAppCode.pdb
